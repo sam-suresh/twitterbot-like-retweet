@@ -7,7 +7,7 @@ This is a twitter bot based on Node JS
 3. Run `node app.js --inspect` 
 
 ![alt text](
-        twitterbot-like-retweet/Screenshot 2018-12-18 at 8.43.14 AM.png
+        https://github.com/sam-suresh/twitterbot-like-retweet/blob/master/Screenshot%202018-12-18%20at%208.43.14%20AM.png
       )
 
 

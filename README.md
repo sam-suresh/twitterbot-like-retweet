@@ -6,7 +6,9 @@ This is a twitter bot based on Node JS
 3. Update `config.js` with your app credential at `developer.twitter.com`
 3. Run `node app.js --inspect` 
 
-![alt text](http://url/to/img.png)
+![alt text](
+        twitterbot-like-retweet/Screenshot 2018-12-18 at 8.43.14 AM.png
+      )
 
 
 That's it!
